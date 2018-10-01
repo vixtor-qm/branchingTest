@@ -1,3 +1,4 @@
 hello
+this line is added from the branch "auth"
 this is a test file
 I'm using it for fun
