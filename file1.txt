@@ -1,6 +1,6 @@
 hello, this line was added in SDN branch
 hello
-this line is added from the branch "auth"
+this line is was changed in the master branch
 this is a test file
 I'm using it for fun
 this is a footer line added in the SDN branch
